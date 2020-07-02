@@ -87,14 +87,13 @@ Windows Registry Editor Version 5.00
 Note: Change the User variable to your Windows user name.
 
 
-3. Basta salvar a edição e depois mesclar o arquivo.
+3. Just save the edit and then merge the file.
 
 
 ### :collision: Optional
 
 1. Get the [Windows terminal](https://github.com/microsoft/terminal) icon.
 
-2. 
-Create a folder inside your "AppData / Local" folder with the name WTerminal (just type %USERPROFILE%/AppData/Local/ within Win + R) and place the icon inside it.
+2. Create a folder inside your "AppData / Local" folder with the name WTerminal (just type %USERPROFILE%/AppData/Local/ within Win + R) and place the icon inside it.
 
 3. Inside the windows registry editor go to "HKEY_CLASSES_ROOT\Directory\Background\shell\wt" create a new String with the value name of "Icon" and the value data of "%USERPROFILE%/AppData/Local/WTerminal/terminal.ico" and save the record.
