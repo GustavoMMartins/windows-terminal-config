@@ -64,9 +64,9 @@ O tema utilizado como padrão sempre será o do power shell essas configuraçõe
 ],
 ```
 
-## Adicionando o atalho do windows terminal com o botão direito do mouse.
+## Adicionando o atalho do [Windows terminal](https://github.com/microsoft/terminal) com o botão direito do mouse.
 
-1. O passo a passo pra adicionar o windows terminal com o botão direito do mouse começa colocando o seguinte codigo abaixo :point_down: dentro do profiles das configs
+1. O passo a passo pra adicionar o [Windows terminal](https://github.com/microsoft/terminal) com o botão direito do mouse começa colocando o seguinte codigo abaixo :point_down: dentro do profiles das configs
 
 ```
 "startingDirectory": "."
