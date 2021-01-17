@@ -42,6 +42,7 @@
                 "fontFace" : "Consolas",  
                 "historySize" : 9001,
                 "icon" : "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
+                "startingDirectory": ".",
                 "name" : "Git Bash",
                 "snapOnInput" : true
             },
